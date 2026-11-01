@@ -12,4 +12,4 @@ This project covers basic and intermediate jQuery features:
 - Part 5: Interactive Accordion Menu mini-project
 
 ## Deployment
-Published URL: 
+Published URL: https://github.com/NikolayKozlovAitu/Assignment6_jQuery
